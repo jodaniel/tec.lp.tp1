@@ -1,0 +1,15 @@
+"nombre" : "quiz lenguajes #1",
+"preguntas" :
+[
+    {
+	"enunciado" : "cual es el numero de clase?"
+	"opciones" : ["20","19","15","12"]
+	"correcta" : "0"
+    },
+
+    {
+	"enunciado" : "cuanto es dos mas dos?"
+	"opciones" : ["1","2","3","4"]
+	"correcta" : "3"
+    }
+]
